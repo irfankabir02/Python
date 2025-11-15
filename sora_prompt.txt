@@ -41,7 +41,7 @@ SCENE 3 – First Code Attempts (40–60s)
 SCENE 4 – BREAKFAST COMEDY (60–80s)
 - Exhausted, protagonist stumbles away from desk into a small kitchen.
 - Camera follows in a slightly exaggerated, Chaplin-style walk.
-- Intertitle: "import milk"
+- Intertitle: "import mil"
   - Protagonist pours from a milk carton labeled "mil". Nothing comes out.
   - Shakes and squeezes the carton in confusion.
 - Intertitle: "PATH TO FRIDGE NOT FOUND"
@@ -66,4 +66,3 @@ SCENE 5 – Quiet Resolution (80–90s)
 - Comedy should be physical and gentle, never cruel.
 - Camera work: simple and readable, with occasional playful cuts.
 - Emphasize the contrast between chaotic errors and calm guidance in the kitchen.
-

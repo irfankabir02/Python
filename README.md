@@ -1,4 +1,14 @@
-# hello-app: Enterprise-Grade Dice Rolling Application
+# Python Monorepo: hello-app & Sora Video System
+
+This repository contains two main components:
+- **hello-app**: Enterprise-grade dice rolling CLI (see below).
+- **Sora video generation system**: Repository-driven Sora 2 video prompt and client integration (see `Docs/SORA_README.md`).
+
+For a quick start with hello-app, see `QUICKSTART.md`. For the Sora system, start with `Docs/SORA_QUICKSTART.txt` and `Docs/SORA_README.md`.
+
+---
+
+## hello-app: Enterprise-Grade Dice Rolling Application
 
 A production-ready Python CLI application demonstrating modern software engineering best practices, including modular architecture, comprehensive testing, type hints, logging, and containerization.
 
@@ -493,7 +503,7 @@ MIT License — See LICENSE file for details
 
 ## ✨ Author
 
-**Your Organization**
+**Atmosphere**
 
 For questions or contributions, please open an issue or pull request.
 
